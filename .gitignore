@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Angular
+node_modules/
+dist/
+.angular/
+coverage/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
