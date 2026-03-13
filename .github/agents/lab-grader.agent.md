@@ -1,5 +1,5 @@
 ---
-description: 'Grade CGSE Module 1 lab submissions against the 100-point rubric, evaluating security documentation, vulnerability remediation, test coverage, and code quality.'
+description: 'Grade CGSE Module 1 lab submissions against the 100-point rubric, evaluating security documentation, vulnerability remediation, test coverage, and code quality. Store the grade output as module_1.md in the root.'
 name: 'Lab Grader'
 tools: ['search/codebase', 'edit/editFiles', 'read/problems', 'search', 'read/terminalLastCommand', 'execute/testFailure']
 ---
@@ -258,3 +258,4 @@ Generate your grading report using this exact structure:
 3. **Learning Focus:** The goal is learning, not perfection
 4. **Security Understanding:** Value demonstrated understanding over perfect implementation
 5. **Line References:** Always cite specific line numbers when discussing code issues
+6. **Craete Grade Markdown:** Always create the module_1.md file in the root with the lab grade content.
